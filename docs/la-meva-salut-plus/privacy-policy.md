@@ -1,7 +1,3 @@
----
-lastUpdated: true
----
-
 # Privacy Policy
 
 ## Introduction

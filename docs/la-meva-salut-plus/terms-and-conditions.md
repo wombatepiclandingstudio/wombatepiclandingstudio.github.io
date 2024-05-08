@@ -1,7 +1,3 @@
----
-lastUpdated: true
----
-
 # Terms And Conditions
 
 ## Introduction

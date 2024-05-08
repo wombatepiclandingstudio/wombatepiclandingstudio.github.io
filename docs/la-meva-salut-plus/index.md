@@ -1,7 +1,3 @@
----
-lastUpdated: false
----
-
 ![La Meva Salut Plus](/lmsp-128.png)
 
 ## What is this about?

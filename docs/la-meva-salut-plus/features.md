@@ -1,7 +1,3 @@
----
-lastUpdated: true
----
-
 # Features
 
 ## Improved look and feel
