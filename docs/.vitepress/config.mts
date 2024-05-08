@@ -18,7 +18,7 @@ export default defineConfig({
       { text: "About", link: "/about" },
       {
         text: "La Meva Salut Plus",
-        link: "/la-meva-salut-plus/documentation",
+        link: "/la-meva-salut-plus/",
       },
     ],
 
@@ -31,7 +31,7 @@ export default defineConfig({
             items: [
               {
                 text: "Documentation",
-                link: "/la-meva-salut-plus/documentation",
+                link: "/la-meva-salut-plus/",
               },
               {
                 text: "Features",
