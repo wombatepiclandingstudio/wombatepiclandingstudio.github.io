@@ -6,7 +6,7 @@ lastUpdated: true
 
 ## Introduction
 
-Welcome to the La Meva Salut Plus Extension (the "Extension"), a Chrome Extension developed by Wombat Epic Landing Studio. Please read Private Policy carefully before using our Extension. By accessing or using the Extension, you agree to be bound by our Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Extension.
+Welcome to La Meva Salut Plus (the "Extension"), a Chrome Extension developed by Wombat Epic Landing Studio. Please read Private Policy carefully before using our Extension. By accessing or using the Extension, you agree to be bound by our Privacy Policy. If you do not agree with our Privacy Policy, please do not use the Extension.
 
 This Privacy Policy explains how the Extension collects, uses, and discloses information about you when you use it. This policy applies to all users of the Extension, regardless of where they are located.
 

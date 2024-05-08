@@ -1,5 +1,5 @@
 ---
-lastUpdated: true
+lastUpdated: false
 ---
 
 ![La Meva Salut Plus](/lmsp-128.png)
@@ -24,7 +24,7 @@ In desktop you are mostly fine, in mobile devices it's a bit tricky.
 
 If you use it from your laptop, you just need a browser that supports Chrome extensions to use it.
 
-But if you are using a mobile device, it's a bit more unconfortable.
+But if you are using a mobile device, it's a bit more uncomfortable.
 
 First of, you are more likely to use La Meva Salut app instead of a browser to access La Meva Salut. I can't do much with that fact.
 
@@ -34,7 +34,7 @@ So you'll need another browser, with Chrome extensions support.
 
 ### Compatible browsers
 
-Although I don't recommend any browser in particullar, and I'm not being paid for advertising them, here's a list of browsers you can use.
+Although I don't recommend any browser in particular, and I'm not being paid for advertising them, here's a list of browsers you can use.
 
 The ones marked with a green check (✅) I have tested myself.
 

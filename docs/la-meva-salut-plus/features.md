@@ -1,3 +1,7 @@
+---
+lastUpdated: true
+---
+
 # Features
 
 ## Improved look and feel
@@ -62,7 +66,7 @@ Message sent successfully
 
 ![Mobile La Meva Salut Plus message sent](../img/la-meva-salut-plus/lmsp-mobile-6.png)
 
-## Responsivenes
+## Responsiveness
 
 Now the eConsulta is actually usable from a mobile device!
 
@@ -84,7 +88,7 @@ La Meva Salut is also available in Occitan aranés, but La Meva Salut Plus is no
 La Meva Salut Plus translations will match the one you have selected in La Meva Salut. You can change it live!
 
 ::: warning
-There may be missing translations, for example for uncontrolled errors or dynamic content, such as notifications. They may appear in both English (for catastrofic failures) or Catalan (for messages or controlled errors)
+There may be missing translations, for example for uncontrolled errors or dynamic content, such as notifications. They may appear in both English (for catastrophic failures) or Catalan (for messages or controlled errors)
 :::
 
 ## Chat view

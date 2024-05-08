@@ -1,3 +1,7 @@
+---
+lastUpdated: true
+---
+
 # Changelog
 
 ## 0.4.0

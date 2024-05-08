@@ -6,7 +6,7 @@ lastUpdated: true
 
 ## Introduction
 
-Welcome to the La Meva Salut Plus Extension (the "Extension"), a Chrome Extension developed by Wombat Epic Landing Studio. Please read these Terms of Service ("Terms") carefully before using our Extension. By accessing or using the Extension, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Extension.
+Welcome to La Meva Salut Plus (the "Extension"), a Chrome Extension developed by Wombat Epic Landing Studio. Please read these Terms of Service ("Terms") carefully before using our Extension. By accessing or using the Extension, you agree to be bound by these Terms. If you do not agree with any part of these Terms, please do not use the Extension.
 
 ## 1. Description of Service
 
