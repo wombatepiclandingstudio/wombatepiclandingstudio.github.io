@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.1
+
+- Translate reason in chat history.
+
 ## 0.4.0
 
 - Check for session to be closed in La Meva Salut. Show a toast message with instructions for the user.
