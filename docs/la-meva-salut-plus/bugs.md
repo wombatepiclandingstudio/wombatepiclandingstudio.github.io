@@ -7,3 +7,6 @@ Click [here](https://form.jotform.com/wombatepiclandingstudio/lmsp-bug-en) to re
 ## Known issues
 
 - "Other professionals" is never populated.
+- Reason in chat history is not translated.
+- Footer is not translated.
+- Occitan aranés translations are missing.
