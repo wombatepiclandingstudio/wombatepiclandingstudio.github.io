@@ -38,6 +38,10 @@ export default defineConfig({
                 link: "/la-meva-salut-plus/features",
               },
               {
+                text: "Bugs and known issues",
+                link: "/la-meva-salut-plus/bugs",
+              },
+              {
                 text: "Changelog",
                 link: "/la-meva-salut-plus/changelog",
               },
@@ -60,6 +64,10 @@ export default defineConfig({
       {
         icon: "instagram",
         link: "https://www.instagram.com/wombatepiclandingstudio",
+      },
+      {
+        icon: "youtube",
+        link: "https://www.youtube.com/channel/UCBVYuRZIJV3y6eDW7nQbgOA",
       },
     ],
 
