@@ -41,7 +41,7 @@ The ones marked with a green check (✅) I have tested myself.
 
 #### Android
 
-- Edge
+- Edge ⚠️ (Has extensions, but I wasn't able to install La Meva Salut Plus)
 - Kiwi ✅
 
 #### iOS

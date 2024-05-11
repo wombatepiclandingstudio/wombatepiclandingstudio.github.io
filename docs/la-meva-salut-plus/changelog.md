@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.4.2
+
+- Translate closed chat message.
+- Fix some Spanish and English translations.
+
 ## 0.4.1
 
 - Translate reason in chat history.
