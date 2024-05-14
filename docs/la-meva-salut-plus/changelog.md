@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.4.3
+
+- Translate footer
+
 ## 0.4.2
 
 - Translate closed chat message.
