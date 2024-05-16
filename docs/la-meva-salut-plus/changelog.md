@@ -1,8 +1,13 @@
 # Changelog
 
+## 0.5.0
+
+- Rename "Satisfaction" section to "Links".
+- Change alert container z-index so you see the alerts contents in La Meva Salut.
+
 ## 0.4.3
 
-- Translate footer
+- Translate footer.
 
 ## 0.4.2
 
