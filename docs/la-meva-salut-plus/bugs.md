@@ -9,3 +9,5 @@ Click [here](https://form.jotform.com/wombatepiclandingstudio/lmsp-bug-en) to re
 - "Other professionals" is never populated.
 - Occitan aranés translations are missing.
 - A bunch of errors appear in dev tools due to url being blocked by CORS policy (related to imports from lamevasalut.gencat.cat)
+- Footer is not translated.
+- Footer links are not set by language.

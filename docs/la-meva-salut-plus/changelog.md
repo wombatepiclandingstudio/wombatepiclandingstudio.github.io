@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.5.1
+
+- Add description to satisfaction survey link.
+- Use satisfaction survey link per language.
+- Add report bug link.
+
 ## 0.5.0
 
 - Rename "Satisfaction" section to "Links".
