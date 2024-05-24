@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.5.2
+
+- Fix stack overflow for navigation when page loading is too slow.
+- Fix attachments events not being set in chat message response form.
+
 ## 0.5.1
 
 - Add description to satisfaction survey link.
