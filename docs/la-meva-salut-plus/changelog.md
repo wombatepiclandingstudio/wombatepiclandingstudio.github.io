@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.5.3
+
+- Add link to Chrome Web Store for rating.
+
 ## 0.5.2
 
 - Fix stack overflow for navigation when page loading is too slow.
