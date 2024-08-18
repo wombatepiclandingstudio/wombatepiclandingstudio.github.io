@@ -12,6 +12,6 @@ hero:
   actions:
     - theme: brand
       text: La Meva Salut Plus
-      link: /la-meva-salut-plus/documentation
+      link: /la-meva-salut-plus
 ---
 
