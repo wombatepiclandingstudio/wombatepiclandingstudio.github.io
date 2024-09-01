@@ -31,7 +31,7 @@ export const sharedConfiguration = defineConfig({
     },
 
     editLink: {
-      pattern: "https://github.com/wombatepiclandingstudio/wombatepiclandingstudio.github.io/docs/:path",
+      pattern: "https://github.com/wombatepiclandingstudio/wombatepiclandingstudio.github.io/blob/main/docs/:path",
       text: "Suggest changes",
     },
   },
