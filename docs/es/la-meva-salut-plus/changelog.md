@@ -1,4 +1,4 @@
-# Changelog
+# Lista de cambios
 
 ## 0.5.3
 

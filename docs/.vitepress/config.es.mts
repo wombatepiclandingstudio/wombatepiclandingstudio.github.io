@@ -12,8 +12,8 @@ export const spanishConfiguration: LocaleSpecificConfig<DefaultTheme.Config> = {
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Inicio", link: "/" },
-      { text: "Sobre nosotros", link: "/about" },
+      { text: "Inicio", link: "/es/" },
+      { text: "Sobre nosotros", link: "/es/about" },
       {
         text: "La Meva Salut Plus",
         link: "/es/la-meva-salut-plus",

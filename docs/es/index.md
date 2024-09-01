@@ -1,10 +1,9 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
   name: "Wombat Epic Landing Studio"
-  text: "Software craftin'"
+  text: "Creando software"
   image:
     dark: /wombat-black.png
     light: /wombat-white.png
@@ -12,6 +11,6 @@ hero:
   actions:
     - theme: brand
       text: La Meva Salut Plus
-      link: /la-meva-salut-plus
+      link: /es/la-meva-salut-plus
 ---
 
