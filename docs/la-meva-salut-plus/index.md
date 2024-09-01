@@ -18,7 +18,7 @@ In desktop you are mostly fine, in mobile devices it's a bit tricky.
 
 ### A bit of context
 
-If you use it from your laptop, you just need a browser that supports Chrome extensions to use it.
+If you use it from your computer, you just need a browser that supports Chrome extensions to use it.
 
 But if you are using a mobile device, it's a bit more uncomfortable.
 
@@ -36,7 +36,7 @@ The ones marked with a green check (✅) I have tested myself.
 
 #### Desktop
 
-- Chrome
+- Chrome ✅
 - Edge ✅
 
 #### Android

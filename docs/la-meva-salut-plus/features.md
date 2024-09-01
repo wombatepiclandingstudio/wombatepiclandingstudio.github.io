@@ -32,6 +32,8 @@ Settings
 
 ![Desktop La Meva Salut Plus settings](../img/la-meva-salut-plus/lmsp-desktop-4.png)
 
+<!-- TODO: Satisfaction does no longer exist -->
+
 Satisfaction poll
 
 ![Desktop La Meva Salut Plus satisfaction poll](../img/la-meva-salut-plus/lmsp-desktop-5.png)
