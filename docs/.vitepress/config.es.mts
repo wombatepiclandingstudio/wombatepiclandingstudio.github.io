@@ -45,11 +45,11 @@ export const spanishConfiguration: LocaleSpecificConfig<DefaultTheme.Config> = {
               },
               {
                 text: "Política de privacidad",
-                link: "/la-meva-salut-plus/privacy-policy",
+                link: "/es/la-meva-salut-plus/privacy-policy",
               },
               {
                 text: "Términos y condiciones",
-                link: "/la-meva-salut-plus/terms-and-conditions",
+                link: "/es/la-meva-salut-plus/terms-and-conditions",
               },
             ],
           },
