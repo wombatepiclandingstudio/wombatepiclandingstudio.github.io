@@ -36,6 +36,10 @@ Configuración
 
 Encuesta de satisfacción
 
+:::warning
+Obsoleto
+:::
+
 ![Encuesta de satisfacción en escritorio con La Meva Salut Plus](../../img/la-meva-salut-plus/lmsp-desktop-5.png)
 
 ### Dispositivo móvil
@@ -58,43 +62,47 @@ Configuración
 
 <!-- TODO: Satisfaction does no longer exist -->
 
-Encuesta de satifacción
+Encuesta de satisfacción
 
-![Encuesta de satifacción en dispositivo móvil con La Meva Salut Plus](../../img/la-meva-salut-plus/lmsp-mobile-5.png)
+:::warning
+Obsoleto
+:::
+
+![Encuesta de satisfacción en dispositivo móvil con La Meva Salut Plus](../../img/la-meva-salut-plus/lmsp-mobile-5.png)
 
 Mensaje enviado correctamente
 
 ![Mensaje enviado correctamente en dispositivo móvil con La Meva Salut Plus](../../img/la-meva-salut-plus/lmsp-mobile-6.png)
 
-## Responsiveness
+## Responsividad
 
-¡Ahora la eConsulta se puede usar desde un dispoisitivo móvil!
+¡Ahora eConsulta es realmente usable desde un dispositivo móvil!
 
-- Elementos más grandes que se adaptan a la pantalla, sin necesidad de hacer zoom.
-- Separación en secciones para eliminar elementos no usados de la pantalla.
-- Más información en la pantalla, incluído mostrar los nombres de los archivos para los adjuntos.
-- ¡Se acabaron los refrescos de pantalla constantes!
+- Elementos más grandes que se ajustan a la pantalla, sin necesidad de acercar o alejar.
+- Separado en secciones para un mejor manejo.
+- Más información en pantalla, incluyendo la visualización de los nombres de los archivos adjuntos.
+- ¡No más actualizaciones forzadas!
 
 ## Estilos de La Meva Salut
 
-He intentado usar, a primeras, los estilos de La Meva Salut (usando sus hojas de estilo), dando una experiencia más uniforme.
+Intenté utilizar, en primer lugar, los estilos de La Meva Salut (utilizando su hoja de estilos). Esto da como resultado una experiencia más uniforme en general.
 
 ## Traducciones
 
-eConsulta solo está disponible en catalán, sin importar el lenguaje que hayas elegido en La Meva Salut. Ahora está traducido al español y el catalán ha sido corregido donde ha sido necesario. Inglés está disponible como último recurso.
+eConsulta solo está disponible en catalán, independientemente del idioma que elijas en La Meva Salut. Ahora está traducido al español y el catalán se ha reescrito un poco. El inglés está disponible como idioma de respaldo.
 
-La Meva Salut está disponible en occitan aranés, pero La Meva Salut Plus no (todavía).
+La Meva Salut también está disponible en occitano aranés, pero La Meva Salut Plus no (todavía)
 
-El lenguaje en La Meva Salut Plus es el mismo que el de La Meva Salut, ¡se puede actualizar en vivo! 
+Las traducciones de La Meva Salut Plus coincidirán con las que hayas seleccionado en La Meva Salut. ¡Puedes cambiarlas en vivo!
 
 ::: warning
-Pueden faltar algunas traducciones, como por ejemplo errores no controlados o contenido dinámico, como las notificaciones. Pueden aparecer tanto en inglés (errores catastróficos) o catalán (mensajes o errores controlados)
+Puede haber traducciones faltantes, por ejemplo para errores no controlados o contenido dinámico, como notificaciones. Pueden aparecer en inglés (para errores catastróficos) o en catalán (para mensajes o errores controlados)
 :::
 
 ## Vista de chat
 
-¡La conversación con tu profesional asignado ahora parece un chat de toda la vida!
+¡Seguir una conversación con tu profesional asignado ahora es un chat de toda la vida!
 
 ## Mostrar u ocultar chats cerrados
 
-Puedes mostrar y ocultar los chats cerrados. La opción será recordada para la próxima vez.
+Puedes elegir mostrar u ocultar los chats cerrados. La opción será recordada.

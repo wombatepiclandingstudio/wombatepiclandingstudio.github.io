@@ -1,20 +1,20 @@
 ![La Meva Salut Plus](/lmsp-128.png)
 
-## ¿De qué va esto?
+## ¿Qué es La Meva Salut Plus?
 
-La Meva Salut Plus es una extensión de Chrome para mejorar la eConsulta de La Meva Salut, especialmente para dispositivos móviles.
+La Meva Salut Plus es una extensión para Chrome diseñada para mejorar la apariencia y funcionalidad de la función eConsulta de La Meva Salut, especialmente en dispositivos móviles.
 
-[La Meva Salut](https://lamevasalut.gencat.cat/) es una aplicación para acceder al servicio de salut público en Cataluña (CatSalut). Van añadiendo nuevas funciones, pero la eConsulta ha quedado parada en el tiempo, con un aspecto muy antiguo.
+**La Meva Salut** ([https://lamevasalut.gencat.cat/](https://lamevasalut.gencat.cat/)), una plataforma para acceder al Servicio de Salud Pública de Cataluña, está en constante evolución con nuevas características. Sin embargo, eConsulta se ha mantenido en gran medida sin cambios, con un diseño obsoleto.
 
-Como uso la eConsulta muy a menudo, y es prácticamente imposible usarla en un dispositivo móvil, decidí crear esta extensión.
+Como usuario frecuente de eConsulta, encontré cada vez más engorroso usarlo en dispositivos móviles. Esta extensión nació de esa frustración.
 
-¡Espero que te sea útil a ti también!
+¡Espero que La Meva Salut Plus mejore también tu experiencia!
 
-## ¿Cómo la puedo usar?
+## Cómo usar La Meva Salut Plus
 
 ### Resumen
 
-En un ordenador es bastante sencillo, en dispositivos móviles ya es más complicado.
+En un ordenador o Mac es bastante sencillo, en dispositivos móviles ya es más complicado.
 
 ### Un poco de contexto
 
@@ -51,6 +51,6 @@ Los marcados con un check verde (✅) los he probado personalmente.
 
 ### Vale, ¿pero cómo lo instalo?
 
-Solo tienes que buscarlo en la [Chrome Web Store](https://chromewebstore.google.com/category/extensions).
+Busca "La Meva Salut Plus" en la Chrome Web Store ([https://chromewebstore.google.com/category/extensions](https://chromewebstore.google.com/category/extensions)).
 
-O con el enlace directo: https://chrome.google.com/webstore/detail/meknghhlfdfipikogocccaclnegnbnnj
+Enlace directo: [https://chrome.google.com/webstore/detail/meknghhlfdfipikogocccaclnegnbnnj](https://chrome.google.com/webstore/detail/meknghhlfdfipikogocccaclnegnbnnj)

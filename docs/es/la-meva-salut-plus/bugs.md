@@ -1,13 +1,13 @@
-# Errores
+# Errores y problemas conocidos
 
-## Reportar un error
+## Informar de un error
 
-Haz clic [aquí](https://form.jotform.com/wombatepiclandingstudio/lmsp-bug-es) para reportar un error. ¡Gracias por tu tiempo!
+Haz clic [aquí](https://form.jotform.com/wombatepiclandingstudio/lmsp-bug-es) para informar de un error. ¡Gracias por tu tiempo!
 
-## Errores conocidos
+## Problemas conocidos
 
-- "Otros profesonales" siempre aparece vacío.
-- Occitan aranés no tiene traducciones.
-- Un montón de errores aparecen en las dev tools debido a bloqueo de CORS (relacionado con la importación de archivos de lamevasalut.gencat.cat)
+- "Otros profesionales" nunca se completa.
+- Faltan las traducciones al occitano aranés.
+- Aparece un montón de errores en las herramientas de desarrollo debido a que la URL está bloqueada por la política CORS (relacionado con las importaciones de lamevasalut.gencat.cat)
 - El pie de página no está completamente traducido.
-- Los links del pie de página no cambian según el lenguaje.
+- Los enlaces del pie de página no se configuran por idioma.

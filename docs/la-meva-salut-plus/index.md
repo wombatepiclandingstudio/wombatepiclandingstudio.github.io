@@ -1,20 +1,20 @@
 ![La Meva Salut Plus](/lmsp-128.png)
 
-## What is this about?
+## What is La Meva Salut Plus?
 
-La Meva Salut Plus is a Chrome Extension to improve how La Meva Salut's eConsulta looks and works, specially for mobile devices.
+La Meva Salut Plus is a Chrome extension designed to enhance the look and functionality of La Meva Salut's eConsulta feature, particularly on mobile devices.
 
-[La Meva Salut](https://lamevasalut.gencat.cat/) is an application used to access the Public Health Service in Catalonia. They are putting a lot of effort in adding new features, but eConsulta has been left as it is, with a very old look and feel.
+**La Meva Salut** (https://lamevasalut.gencat.cat/), a platform for accessing Catalonia's Public Health Service, is constantly evolving with new features. However, eConsulta has remained largely unchanged with an outdated design.
 
-As I'm a power user of that feature, eConsulta, and it is near impossible to use in mobile devices, so I decided to create this extension.
+As a frequent user of eConsulta, I found it increasingly cumbersome to use on mobile devices. This extension was born out of that frustration.
 
-I hope it's useful to you too!
+I hope La Meva Salut Plus improves your experience as well!
 
-## How can I use it?
+## How to Use La Meva Salut Plus
 
 ### tl;dr:
 
-In desktop you are mostly fine, in mobile devices it's a bit tricky.
+In desktop or Mac you are mostly fine, in mobile devices it's a bit tricky.
 
 ### A bit of context
 
@@ -51,6 +51,6 @@ The ones marked with a green check (✅) I have tested myself.
 
 ### OK, but how do I install it?
 
-You just need to search for it in the [Chrome Web Store](https://chromewebstore.google.com/category/extensions).
+Search for "La Meva Salut Plus" on the Chrome Web Store (https://chromewebstore.google.com/category/extensions).
 
-Here's the direct link though: https://chrome.google.com/webstore/detail/meknghhlfdfipikogocccaclnegnbnnj
+Direct Link: https://chrome.google.com/webstore/detail/meknghhlfdfipikogocccaclnegnbnnj

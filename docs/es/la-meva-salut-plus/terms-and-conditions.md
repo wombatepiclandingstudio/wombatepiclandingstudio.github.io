@@ -4,4 +4,6 @@ De momento, los términos y condiciones solo están disponible en inglés. Discu
 
 Los puedess consultar [aquí](../../la-meva-salut-plus/terms-and-conditions.md).
 
-**¡Al acceder al enlace se cambiará el idioma a inglés!**
+::: warning
+¡Al acceder al enlace se cambiará el idioma a inglés!
+:::

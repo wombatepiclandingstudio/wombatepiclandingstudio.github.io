@@ -4,4 +4,6 @@ De momento, la política de privacidad solo está disponible en inglés. Disculp
 
 La puedes consultar [aquí](../../la-meva-salut-plus/privacy-policy.md).
 
-**¡Al acceder al enlace se cambiará el idioma a inglés!**
+::: warning
+¡Al acceder al enlace se cambiará el idioma a inglés!
+:::

@@ -1,69 +1,55 @@
 # Changelog
 
 ## 0.5.3
-
-- Add link to Chrome Web Store for rating.
+* **Improvement:** Added a link to the Chrome Web Store to facilitate ratings.
 
 ## 0.5.2
-
-- Fix stack overflow for navigation when page loading is too slow.
-- Fix attachments events not being set in chat message response form.
+* **Fix:** Fixed a stack overflow issue that occurred during navigation when page loading was too slow.
+* **Fix:** Corrected attachment events that were not being set in the chat message response form.
 
 ## 0.5.1
-
-- Add description to satisfaction survey link.
-- Use satisfaction survey link per language.
-- Add report bug link.
+* **Improvement:** Added a description to the satisfaction survey link.
+* **Improvement:** Implemented the use of the satisfaction survey link per language.
+* **New feature:** Added a link to report bugs.
 
 ## 0.5.0
-
-- Rename "Satisfaction" section to "Links".
-- Change alert container z-index so you see the alerts contents in La Meva Salut.
+* **Change:** Renamed the "Satisfaction" section to "Links".
+* **Fix:** Modified the z-index of the alert container to ensure that alert contents are visible in La Meva Salut.
 
 ## 0.4.3
-
-- Translate footer.
+* **Translation:** Translated the footer.
 
 ## 0.4.2
-
-- Translate closed chat message.
-- Fix some Spanish and English translations.
+* **Translation:** Translated closed chat messages.
+* **Fix:** Corrected some Spanish and English translations.
 
 ## 0.4.1
-
-- Translate reason in chat history.
+* **Translation:** Translated the reason in chat history.
 
 ## 0.4.0
-
-- Check for session to be closed in La Meva Salut. Show a toast message with instructions for the user.
+* **New feature:** Implemented a check to verify if the session is closed in La Meva Salut. Displays a toast message with instructions for the user.
 
 ## 0.3.4
-
-- Show or hide closed chats according to the last user preference.
+* **Improvement:** Showed or hid closed chats based on the last user preference.
 
 ## 0.3.3
-
-- Remove navigation service id from url.
+* **Change:** Removed the navigation service ID from the URL.
 
 ## 0.3.2
-
-- Fix events for ‘Reason’ input.
-- Fix events for ‘Attachment’ input.
-- Fix text size for ‘Attachment’ input.
+* **Fix:** Fixed events for the "Reason" input.
+* **Fix:** Fixed events for the "Attachment" input.
+* **Fix:** Corrected the text size for the "Attachment" input.
 
 ## 0.3.1
-
-- Unify button styles.
-- When refreshing or navigating you go to the previous selected service instead of the main page.
+* **Improvement:** Unified button styles.
+* **Improvement:** When refreshing or navigating, the user is redirected to the previously selected service instead of the main page.
 
 ## 0.2.0
-
-- Added translations, based on La Meva Salut settings.
-- Changed ‘Notifications’ to ‘Settings’.
-- Fixed user unable to update the notifications settings.
-- Added the ability to update the user photo.
-- Use the user photo in the chat history.
+* **New feature:** Added translations based on La Meva Salut settings.
+* **Change:** Changed "Notifications" to "Settings".
+* **Fix:** Fixed an issue where the user was unable to update notification settings.
+* **New feature:** Added the ability to update the user's photo.
+* **Improvement:** Used the user's photo in chat history.
 
 ## 0.1.0
-
-- Initial release.
+* **Initial release.**

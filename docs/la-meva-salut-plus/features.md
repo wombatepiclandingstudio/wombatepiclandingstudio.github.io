@@ -36,6 +36,10 @@ Settings
 
 Satisfaction poll
 
+:::warning
+This is obsolete
+:::
+
 ![Desktop La Meva Salut Plus satisfaction poll](../img/la-meva-salut-plus/lmsp-desktop-5.png)
 
 ### Mobile
@@ -96,4 +100,3 @@ Following a conversation with your assigned professional now looks like a good o
 ## Show or hide closed chats
 
 You can choose to show or hide the closed chats. The option will be remembered.
-
