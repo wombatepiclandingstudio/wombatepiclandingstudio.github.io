@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 import { englishConfiguration } from "./config.en.mts";
 import { spanishConfiguration } from "./config.es.mts";
 import { sharedConfiguration } from "./config.shared.mts";
+import { catalanConfiguration } from "./config.ca.mts";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -18,6 +19,12 @@ export default defineConfig({
       lang: "es-ES",
       link: "/es/",
       ...spanishConfiguration,
+    },
+    ca: {
+      label: "Català",
+      lang: "ca-ES",
+      link: "/ca/",
+      ...catalanConfiguration,
     },
   },
 });
