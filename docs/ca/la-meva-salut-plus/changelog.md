@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.6.0
+
+- **Canvi major:** Ara, al canviar el motiu de la consulta es carrega tota la pàgina, per poder obtenir el missatge d'error específica d'un professional.
+- **Correcció:** L'estat dels professionals ara es el que indica la eConsulta.
+
+## 0.5.4
+
+- **Millora:** Ara es mostra un error si no és possible enviar un missatge per raons especifiques del professional (com que està de vacances).
+
 ## 0.5.3
 
 - **Millora:** S'ha afegit un enllaç a la Chrome Web Store per facilitar les valoracions.
