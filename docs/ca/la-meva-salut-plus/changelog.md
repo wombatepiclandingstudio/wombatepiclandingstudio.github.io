@@ -1,8 +1,12 @@
 # Changelog
 
+## 0.6.1
+
+- **Canvi major:** Ara, al canviar el professional es carrega tota la pàgina, per poder obtenir el missatge d'error específic d'un professional.
+
 ## 0.6.0
 
-- **Canvi major:** Ara, al canviar el motiu de la consulta es carrega tota la pàgina, per poder obtenir el missatge d'error específica d'un professional.
+- **Canvi major:** Ara, al canviar el motiu de la consulta es carrega tota la pàgina, per poder obtenir el missatge d'error específic d'un professional.
 - **Correcció:** L'estat dels professionals ara es el que indica la eConsulta.
 
 ## 0.5.4

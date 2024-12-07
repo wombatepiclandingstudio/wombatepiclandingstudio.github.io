@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.1
+
+- **Major Change:** Now, when you change the selected professional the whole page is reloaded to obtain the specific professionals error message.
+
 ## 0.6.0
 
 - **Major Change:** Now, when you change the message reason the whole page is reloaded to obtain the specific professionals error message.

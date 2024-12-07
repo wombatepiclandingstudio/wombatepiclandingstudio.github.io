@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.6.1
+
+- **Cambio mayor:** Ahora, al cambiar el profesional se recarga la página, para poder obtener el mensaje de error específico de un profesional.
+
 ## 0.6.0
 
 - **Cambio mayor:** Ahora, al cambiar el motivo de consulta se recarga la página, para poder obtener el mensaje de error específico de un profesional.
